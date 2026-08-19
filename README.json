@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073224795,
             "language": "Shell",
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 273644
+            "stars": 273985
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1179264259,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:44:43Z",
+            "last_commit": "2026-08-19T00:14:32Z",
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 128579
+            "stars": 128683
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1036412176,
             "language": null,
             "last_commit": "2025-09-14T07:33:32Z",
             "owner": "OneRedOak",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1164540365,
             "language": "Shell",
             "last_commit": "2026-08-18T13:52:16Z",
             "owner": "sangrokjung",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1162915086,
             "language": "Shell",
             "last_commit": "2026-05-04T18:51:55Z",
             "owner": "pcatattacks",
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073224795,
             "language": "Shell",
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 273644
+            "stars": 273985
           }
         },
         {
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1179264259,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:44:43Z",
+            "last_commit": "2026-08-19T00:14:32Z",
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 128579
+            "stars": 128683
           }
         },
         {
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1123446919,
             "language": "Python",
             "last_commit": "2026-08-18T15:26:04Z",
             "owner": "gmickel",
             "repo": "flow-next",
-            "stars": 684
+            "stars": 685
           }
         },
         {
@@ -128,8 +136,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073579907,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T10:54:32Z",
+            "last_commit": "2026-08-18T22:16:14Z",
             "owner": "shinpr",
             "repo": "claude-code-workflows",
             "stars": 668
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1069457150,
             "language": "Shell",
             "last_commit": "2026-04-23T19:47:19Z",
             "owner": "marcusgoll",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1162915086,
             "language": "Shell",
             "last_commit": "2026-05-04T18:51:55Z",
             "owner": "pcatattacks",
@@ -176,11 +187,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073224795,
             "language": "Shell",
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 273644
+            "stars": 273985
           }
         },
         {
@@ -190,11 +202,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136590548,
             "language": "JavaScript",
             "last_commit": "2026-08-18T20:07:38Z",
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 240941
+            "stars": 241073
           }
         },
         {
@@ -204,11 +217,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 995029641,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T13:50:37Z",
+            "last_commit": "2026-08-19T06:22:54Z",
             "owner": "ruvnet",
             "repo": "ruflo",
-            "stars": 68212
+            "stars": 68283
           }
         },
         {
@@ -218,11 +232,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1025856648,
             "language": "Python",
             "last_commit": "2026-08-18T15:56:45Z",
             "owner": "wshobson",
             "repo": "agents",
-            "stars": 38898
+            "stars": 38919
           }
         },
         {
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1052046818,
             "language": "TypeScript",
             "last_commit": "2026-06-18T07:03:47Z",
             "owner": "catlog22",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1141706975,
             "language": "Shell",
             "last_commit": "2026-08-06T08:08:18Z",
             "owner": "yohey-w",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1116163973,
             "language": "JavaScript",
             "last_commit": "2025-12-24T13:08:24Z",
             "owner": "team-attention",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1150922461,
             "language": null,
             "last_commit": "2026-02-05T21:57:57Z",
             "owner": "cloudrepo-io",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1162915086,
             "language": "Shell",
             "last_commit": "2026-05-04T18:51:55Z",
             "owner": "pcatattacks",
@@ -308,11 +328,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1048065319,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T18:01:06Z",
+            "last_commit": "2026-08-19T11:46:59Z",
             "owner": "thedotmack",
             "repo": "claude-mem",
-            "stars": 91149
+            "stars": 91222
           }
         },
         {
@@ -322,11 +343,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1121405464,
             "language": "Python",
             "last_commit": "2026-01-26T15:27:49Z",
             "owner": "parcadei",
             "repo": "Continuous-Claude-v3",
-            "stars": 3932
+            "stars": 3931
           }
         },
         {
@@ -336,11 +358,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158631460,
             "language": "Shell",
             "last_commit": "2026-02-24T23:54:21Z",
             "owner": "agenticnotetaking",
             "repo": "arscontexta",
-            "stars": 3476
+            "stars": 3477
           }
         },
         {
@@ -350,11 +373,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1012454253,
             "language": "Shell",
             "last_commit": "2026-07-22T15:05:18Z",
             "owner": "peterkrueck",
             "repo": "Claude-Code-Development-Kit",
-            "stars": 1379
+            "stars": 1380
           }
         },
         {
@@ -364,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1171383826,
             "language": "Shell",
             "last_commit": "2026-08-07T06:04:20Z",
             "owner": "runesleo",
@@ -378,18 +403,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1133827737,
             "language": "TypeScript",
             "last_commit": "2026-05-13T00:01:31Z",
             "owner": "kingbootoshi",
             "repo": "cartographer",
             "stars": 643
           }
-        },
-        {
-          "node_type": "item",
-          "title": "vinicius91carvalho/.claude",
-          "description": "Portable workflow system with hooks, agents, skills, and enforcement. Drop-in directory that brings structured context management to any project.",
-          "children": []
         }
       ],
       "title": "Context and Memory Management"
@@ -404,11 +424,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073224795,
             "language": "Shell",
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 273644
+            "stars": 273985
           }
         },
         {
@@ -418,11 +439,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073224795,
             "language": "Shell",
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 273644
+            "stars": 273985
           }
         },
         {
@@ -432,11 +454,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136590548,
             "language": "JavaScript",
             "last_commit": "2026-08-18T20:07:38Z",
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 240941
+            "stars": 241073
           }
         },
         {
@@ -446,11 +469,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1179264259,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:44:43Z",
+            "last_commit": "2026-08-19T00:14:32Z",
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 128579
+            "stars": 128683
           }
         },
         {
@@ -460,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1083206929,
             "language": "JavaScript",
             "last_commit": "2026-08-18T15:29:02Z",
             "owner": "glebis",
@@ -474,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1151566600,
             "language": "Shell",
             "last_commit": "2026-02-25T21:10:10Z",
             "owner": "aaddrick",
@@ -494,11 +520,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073224795,
             "language": "Shell",
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 273644
+            "stars": 273985
           }
         },
         {
@@ -508,11 +535,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1179264259,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:44:43Z",
+            "last_commit": "2026-08-19T00:14:32Z",
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 128579
+            "stars": 128683
           }
         },
         {
@@ -522,11 +550,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1174820787,
             "language": "Python",
             "last_commit": "2026-03-26T00:07:37Z",
             "owner": "karpathy",
             "repo": "autoresearch",
-            "stars": 94089
+            "stars": 94133
           }
         }
       ],
@@ -542,11 +571,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1179264259,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:44:43Z",
+            "last_commit": "2026-08-19T00:14:32Z",
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 128579
+            "stars": 128683
           }
         },
         {
@@ -556,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1163037979,
             "language": "Shell",
             "last_commit": "2026-03-15T04:13:23Z",
             "owner": "hamelsmu",
@@ -570,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136134423,
             "language": "TypeScript",
             "last_commit": "2026-05-28T02:51:35Z",
             "owner": "kingbootoshi",
@@ -584,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1116163973,
             "language": "JavaScript",
             "last_commit": "2025-12-24T13:08:24Z",
             "owner": "team-attention",
@@ -604,11 +637,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136590548,
             "language": "JavaScript",
             "last_commit": "2026-08-18T20:07:38Z",
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 240941
+            "stars": 241073
           }
         },
         {
@@ -618,11 +652,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136590548,
             "language": "JavaScript",
             "last_commit": "2026-08-18T20:07:38Z",
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 240941
+            "stars": 241073
           }
         },
         {
@@ -632,11 +667,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1174820787,
             "language": "Python",
             "last_commit": "2026-03-26T00:07:37Z",
             "owner": "karpathy",
             "repo": "autoresearch",
-            "stars": 94089
+            "stars": 94133
           }
         },
         {
@@ -646,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1083206929,
             "language": "JavaScript",
             "last_commit": "2026-08-18T15:29:02Z",
             "owner": "glebis",
@@ -666,11 +703,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1179264259,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:44:43Z",
+            "last_commit": "2026-08-19T00:14:32Z",
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 128579
+            "stars": 128683
           }
         },
         {
@@ -680,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186820702,
             "language": "JavaScript",
             "last_commit": "2026-03-27T01:29:26Z",
             "owner": "mcpware",
@@ -694,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186599961,
             "language": "JavaScript",
             "last_commit": "2026-03-24T20:55:33Z",
             "owner": "mcpware",
@@ -714,11 +754,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136590548,
             "language": "JavaScript",
             "last_commit": "2026-08-18T20:07:38Z",
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 240941
+            "stars": 241073
           }
         },
         {
@@ -728,11 +769,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1075372545,
             "language": "Shell",
             "last_commit": "2026-08-06T13:29:47Z",
             "owner": "msitarzewski",
             "repo": "agency-agents",
-            "stars": 146108
+            "stars": 146205
           }
         },
         {
@@ -742,11 +784,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136152017,
             "language": "Python",
-            "last_commit": "2026-08-18T06:50:26Z",
+            "last_commit": "2026-08-19T06:50:45Z",
             "owner": "ReScienceLab",
             "repo": "opc-skills",
-            "stars": 1593
+            "stars": 1600
           }
         }
       ],
@@ -762,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1150922461,
             "language": null,
             "last_commit": "2026-02-05T21:57:57Z",
             "owner": "cloudrepo-io",
@@ -776,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1038816926,
             "language": "Shell",
             "last_commit": "2026-08-07T17:29:02Z",
             "owner": "TheWayWithin",
@@ -790,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1166344897,
             "language": "TypeScript",
             "last_commit": "2026-08-09T18:00:01Z",
             "owner": "alexclowe",
@@ -810,11 +856,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136590548,
             "language": "JavaScript",
             "last_commit": "2026-08-18T20:07:38Z",
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 240941
+            "stars": 241073
           }
         },
         {
@@ -824,11 +871,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1174820787,
             "language": "Python",
             "last_commit": "2026-03-26T00:07:37Z",
             "owner": "karpathy",
             "repo": "autoresearch",
-            "stars": 94089
+            "stars": 94133
           }
         }
       ],
@@ -844,11 +892,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1179264259,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:44:43Z",
+            "last_commit": "2026-08-19T00:14:32Z",
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 128579
+            "stars": 128683
           }
         },
         {
@@ -858,11 +907,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1178954220,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T21:42:09Z",
+            "last_commit": "2026-08-19T11:21:47Z",
             "owner": "luongnv89",
             "repo": "asm",
-            "stars": 872
+            "stars": 874
           }
         },
         {
@@ -872,6 +922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1080588167,
             "language": "Python",
             "last_commit": "2025-11-12T15:30:27Z",
             "owner": "alirezarezvani",
@@ -886,6 +937,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1185714860,
             "language": "JavaScript",
             "last_commit": "2026-06-07T06:48:36Z",
             "owner": "mcpware",
@@ -906,11 +958,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1126473386,
             "language": "JavaScript",
             "last_commit": "2026-08-18T14:20:05Z",
             "owner": "jarrodwatts",
             "repo": "claude-hud",
-            "stars": 27476
+            "stars": 27486
           }
         },
         {
@@ -920,11 +973,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1028650374,
             "language": "Python",
             "last_commit": "2026-08-10T00:29:44Z",
             "owner": "starbaser",
             "repo": "ccproxy",
-            "stars": 349
+            "stars": 350
           }
         },
         {
@@ -934,6 +988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1124037438,
             "language": "Python",
             "last_commit": "2026-08-17T22:35:28Z",
             "owner": "luongnv89",
@@ -954,11 +1009,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136590548,
             "language": "JavaScript",
             "last_commit": "2026-08-18T20:07:38Z",
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 240941
+            "stars": 241073
           }
         },
         {
@@ -968,11 +1024,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1087192965,
             "language": "HTML",
-            "last_commit": "2026-08-18T06:37:38Z",
+            "last_commit": "2026-08-19T06:38:38Z",
             "owner": "shanraisshan",
             "repo": "claude-code-best-practice",
-            "stars": 64673
+            "stars": 64696
           }
         },
         {
@@ -982,11 +1039,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1092047360,
             "language": "Python",
-            "last_commit": "2026-08-17T05:44:48Z",
+            "last_commit": "2026-08-19T08:58:30Z",
             "owner": "luongnv89",
             "repo": "claude-howto",
-            "stars": 41094
+            "stars": 41103
           }
         },
         {
@@ -996,6 +1054,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1086161926,
             "language": "TypeScript",
             "last_commit": "2026-07-13T22:59:08Z",
             "owner": "diet103",
@@ -1010,6 +1069,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1129202884,
             "language": "JavaScript",
             "last_commit": "2026-01-06T19:05:18Z",
             "owner": "ChrisWiles",
@@ -1024,8 +1084,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073337396,
             "language": "Python",
-            "last_commit": "2026-08-18T21:41:31Z",
+            "last_commit": "2026-08-19T12:13:26Z",
             "owner": "jeremylongshore",
             "repo": "claude-code-plugins-plus-skills",
             "stars": 2651
@@ -1038,18 +1099,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1126064944,
             "language": "Python",
             "last_commit": "2026-08-18T12:15:59Z",
             "owner": "CloudAI-X",
             "repo": "claude-workflow-v2",
-            "stars": 1404
+            "stars": 1405
           }
         }
       ],
       "title": "Comprehensive Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1058,11 +1120,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 896335270,
             "language": null,
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92532
+            "stars": 92564
           }
         },
         {
@@ -1072,11 +1135,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1078079172,
             "language": "Python",
             "last_commit": "2026-08-10T21:45:44Z",
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 72746
+            "stars": 72788
           }
         },
         {
@@ -1086,11 +1150,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 969302809,
             "language": "Python",
-            "last_commit": "2026-08-18T21:06:31Z",
+            "last_commit": "2026-08-19T12:08:31Z",
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 52565
+            "stars": 52610
           }
         },
         {
@@ -1100,11 +1165,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1077850011,
             "language": null,
             "last_commit": "2026-04-28T19:30:24Z",
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 14710
+            "stars": 14717
           }
         },
         {
@@ -1114,11 +1180,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 948072295,
             "language": null,
             "last_commit": "2026-04-16T01:34:11Z",
             "owner": "filipecalegario",
             "repo": "awesome-vibe-coding",
-            "stars": 5131
+            "stars": 5136
           }
         },
         {
@@ -1128,6 +1195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1189327547,
             "language": null,
             "last_commit": "2026-03-24T21:08:05Z",
             "owner": "ithiria894",
@@ -1137,16 +1205,12 @@
         }
       ],
       "title": "Related Awesome Lists"
-    },
-    {
-      "description": "See CONTRIBUTING.md for guidelines. We curate, not collect — not every submission will be accepted.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:45:01.520Z",
+    "last_updated": "2026-08-19T12:20:33.771Z",
     "original_repository": "ithiria894/awesome-claude-code-workflows",
+    "original_repository_id": 1189327281,
     "original_repository_sha": "553ac1546ba9b40882de0c4e0bc43694e66ad7ad",
     "enhanced_repository": "enhansome/enhansome-claude-code-workflows",
     "enhanced_repository_description": null,
