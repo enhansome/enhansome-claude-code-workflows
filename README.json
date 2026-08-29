@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agentic skills framework & software development methodology that works.",
+            "homepage": null,
             "id": 1073224795,
             "language": "Shell",
-            "last_commit": "2026-08-19T17:33:23Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:21:18Z",
+            "open_issues": 332,
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 279090
+            "stars": 279109,
+            "topics": [
+              "ai",
+              "brainstorming",
+              "coding",
+              "obra",
+              "sdlc",
+              "skills",
+              "subagent-driven-development",
+              "superpowers"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -26,12 +40,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+            "homepage": null,
             "id": 1179264259,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:43:13Z",
+            "open_issues": 810,
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 130229
+            "stars": 130236,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -42,12 +61,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup.",
+            "homepage": null,
             "id": 1036412176,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-09-14T07:33:32Z",
+            "open_issues": 9,
             "owner": "OneRedOak",
             "repo": "claude-code-workflows",
-            "stars": 3888
+            "stars": 3888,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -58,12 +82,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "oh-my-zsh for Claude Code — 16 agents, 35 commands, 32 skills, 21 safety hooks in one install. v4.0 adds an adversarial review loop: a second agent that never sees the first one's reasoning. MIT.",
+            "homepage": "https://sangrokjung.github.io/claude-forge",
             "id": 1164540365,
             "language": "Shell",
-            "last_commit": "2026-08-25T08:54:48Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:35:30Z",
+            "open_issues": 31,
             "owner": "sangrokjung",
             "repo": "claude-forge",
-            "stars": 820
+            "stars": 820,
+            "topics": [
+              "agents",
+              "ai-assistant",
+              "ai-coding",
+              "ai-framework",
+              "ai-pair-programming",
+              "anthropic",
+              "automation",
+              "claude-code",
+              "claude-code-agents",
+              "cli-tools",
+              "developer-experience",
+              "developer-tools",
+              "dotfiles",
+              "hooks",
+              "llm",
+              "macos",
+              "productivity",
+              "shell",
+              "slash-commands",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -74,12 +124,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Claude Code plugin that gives you a full AI org - specialized agents, guided workflows, and decision memory. Ship products faster as a team of one.",
+            "homepage": "https://pcatattacks.github.io/solopreneur-plugin/",
             "id": 1162915086,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-05-04T18:51:55Z",
+            "open_issues": 1,
             "owner": "pcatattacks",
             "repo": "solopreneur-plugin",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "agents",
+              "claude",
+              "claude-code",
+              "claude-code-plugin",
+              "plugin",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -96,12 +158,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agentic skills framework & software development methodology that works.",
+            "homepage": null,
             "id": 1073224795,
             "language": "Shell",
-            "last_commit": "2026-08-19T17:33:23Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:21:18Z",
+            "open_issues": 332,
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 279090
+            "stars": 279109,
+            "topics": [
+              "ai",
+              "brainstorming",
+              "coding",
+              "obra",
+              "sdlc",
+              "skills",
+              "subagent-driven-development",
+              "superpowers"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -112,12 +188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+            "homepage": null,
             "id": 1179264259,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:43:13Z",
+            "open_issues": 810,
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 130229
+            "stars": 130236,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -128,12 +209,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs, fresh-context workers, adversarial cross-model reviews, receipts. Everything in your repo, zero dependencies. Claude Code · Codex · Cursor · Droid.",
+            "homepage": "https://flow-next.dev",
             "id": 1123446919,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-29T02:29:40Z",
+            "open_issues": 6,
             "owner": "gmickel",
             "repo": "flow-next",
-            "stars": 689
+            "stars": 689,
+            "topics": [
+              "agentic-workflow",
+              "ai-agent",
+              "ai-workflow",
+              "anthropic",
+              "autonomous-agent",
+              "claude-code",
+              "claude-code-plugin",
+              "cli",
+              "code-review",
+              "codex",
+              "execution",
+              "factory-droid",
+              "marketplace",
+              "openai-codex",
+              "planning",
+              "plugin",
+              "ralph-mode",
+              "sdlc",
+              "spec-driven-development",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -144,12 +251,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Development workflows for Claude Code that keep broad exploration focused on the outcome you approved.",
+            "homepage": null,
             "id": 1073579907,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T07:54:52Z",
+            "open_issues": 0,
             "owner": "shinpr",
             "repo": "claude-code-workflows",
-            "stars": 673
+            "stars": 673,
+            "topics": [
+              "agent-skills",
+              "agentic-ai",
+              "agentic-coding",
+              "ai-agents",
+              "anthropic",
+              "claude-code",
+              "claude-code-plugin",
+              "claude-code-skill",
+              "code-quality",
+              "code-review",
+              "developer-tools",
+              "development-workflow",
+              "llm-orchestration",
+              "productivity",
+              "subagents"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -160,12 +288,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn product ideas into production launches with Spec-Driven Development. Repeatable Claude Code workflows with quality gates, token budgets, and auditable artifacts.",
+            "homepage": "https://github.com/marcusgoll/Spec-Flow",
             "id": 1069457150,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-04-23T19:47:19Z",
+            "open_issues": 1,
             "owner": "marcusgoll",
             "repo": "Spec-Flow",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "ai-agents",
+              "ai-assisted-development",
+              "ai-workflows",
+              "automation",
+              "bash",
+              "claude",
+              "claude-ai",
+              "claude-code",
+              "developer-tools",
+              "documentation",
+              "powershell",
+              "productivity",
+              "spec-driven-development",
+              "workflow",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -176,12 +325,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Claude Code plugin that gives you a full AI org - specialized agents, guided workflows, and decision memory. Ship products faster as a team of one.",
+            "homepage": "https://pcatattacks.github.io/solopreneur-plugin/",
             "id": 1162915086,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-05-04T18:51:55Z",
+            "open_issues": 1,
             "owner": "pcatattacks",
             "repo": "solopreneur-plugin",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "agents",
+              "claude",
+              "claude-code",
+              "claude-code-plugin",
+              "plugin",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -198,12 +359,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agentic skills framework & software development methodology that works.",
+            "homepage": null,
             "id": 1073224795,
             "language": "Shell",
-            "last_commit": "2026-08-19T17:33:23Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:21:18Z",
+            "open_issues": 332,
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 279090
+            "stars": 279109,
+            "topics": [
+              "ai",
+              "brainstorming",
+              "coding",
+              "obra",
+              "sdlc",
+              "skills",
+              "subagent-driven-development",
+              "superpowers"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -214,12 +389,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+            "homepage": "https://ecc.tools",
             "id": 1136590548,
             "language": "JavaScript",
-            "last_commit": "2026-08-29T02:24:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:22:27Z",
+            "open_issues": 146,
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 243987
+            "stars": 244001,
+            "topics": [
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "developer-tools",
+              "llm",
+              "mcp",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -230,12 +419,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+            "homepage": "https://Cognitum.One",
             "id": 995029641,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T07:06:28Z",
+            "open_issues": 859,
             "owner": "ruvnet",
             "repo": "ruflo",
-            "stars": 69659
+            "stars": 69661,
+            "topics": [
+              "agentic-ai",
+              "agentic-framework",
+              "agentic-workflow",
+              "agents",
+              "ai-agents",
+              "ai-assistant",
+              "ai-skills",
+              "autonomous-agents",
+              "claude-code",
+              "codex",
+              "dsh-plugin",
+              "harness",
+              "mcp-server",
+              "multi-agent",
+              "multi-agent-systems",
+              "npm",
+              "skills",
+              "swarm",
+              "swarm-intelligence",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -246,12 +461,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity",
+            "homepage": "https://sethhobson.com",
             "id": 1025856648,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T12:14:16Z",
+            "open_issues": 5,
             "owner": "wshobson",
             "repo": "agents",
-            "stars": 39228
+            "stars": 39232,
+            "topics": [
+              "agent-skills",
+              "agentic-ai",
+              "agents",
+              "ai-agents",
+              "anthropic",
+              "antigravity",
+              "claude",
+              "claude-code",
+              "claude-code-plugins",
+              "claude-skills",
+              "codex",
+              "copilot",
+              "cursor",
+              "cursor-rules",
+              "developer-tools",
+              "mcp",
+              "multi-agent",
+              "opencode",
+              "prompt-engineering",
+              "subagents"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -262,12 +503,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": " JSON-driven multi-agent  cadence-team development framework with   intelligent CLI orchestration (Gemini/Qwen/Codex),   context-first architecture, and automated workflow   execution",
+            "homepage": "https://ccw-command-explorer.vercel.app/",
             "id": 1052046818,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-18T07:03:47Z",
+            "open_issues": 0,
             "owner": "catlog22",
             "repo": "Claude-Code-Workflow",
-            "stars": 2137
+            "stars": 2137,
+            "topics": [
+              "claude",
+              "claude-code",
+              "cli-tools",
+              "codex",
+              "context-management",
+              "gemini-cli",
+              "json-driven",
+              "qwen-code",
+              "task-orchestration",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -278,12 +535,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.",
+            "homepage": null,
             "id": 1141706975,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-06T08:08:18Z",
+            "open_issues": 7,
             "owner": "yohey-w",
             "repo": "multi-agent-shogun",
-            "stars": 1419
+            "stars": 1419,
+            "topics": [
+              "ai-agent",
+              "anthropic",
+              "automation",
+              "claude-code",
+              "llm",
+              "multi-agent",
+              "parallel-processing",
+              "samurai",
+              "shogun",
+              "tmux"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -294,12 +567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-agent collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
+            "homepage": null,
             "id": 1116163973,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-24T13:08:24Z",
+            "open_issues": 3,
             "owner": "team-attention",
             "repo": "agent-council",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -310,12 +588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run your company with an AI team. No complex tooling—just markdown files and Claude.",
+            "homepage": null,
             "id": 1150922461,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-05T21:57:57Z",
+            "open_issues": 1,
             "owner": "cloudrepo-io",
             "repo": "founder-os",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -326,12 +609,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Claude Code plugin that gives you a full AI org - specialized agents, guided workflows, and decision memory. Ship products faster as a team of one.",
+            "homepage": "https://pcatattacks.github.io/solopreneur-plugin/",
             "id": 1162915086,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-05-04T18:51:55Z",
+            "open_issues": 1,
             "owner": "pcatattacks",
             "repo": "solopreneur-plugin",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "agents",
+              "claude",
+              "claude-code",
+              "claude-code-plugin",
+              "plugin",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -348,12 +643,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+            "homepage": "https://claude-mem.ai",
             "id": 1048065319,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T23:37:11Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:35:52Z",
+            "open_issues": 263,
             "owner": "thedotmack",
             "repo": "claude-mem",
-            "stars": 92522
+            "stars": 92526,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-memory",
+              "anthropic",
+              "artificial-intelligence",
+              "chromadb",
+              "claude",
+              "claude-agent-sdk",
+              "claude-agents",
+              "claude-code",
+              "claude-code-plugin",
+              "claude-skills",
+              "embeddings",
+              "long-term-memory",
+              "mem0",
+              "memory-engine",
+              "openmemory",
+              "rag",
+              "sqlite",
+              "supermemory"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -364,12 +685,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.",
+            "homepage": null,
             "id": 1121405464,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-26T15:27:49Z",
+            "open_issues": 46,
             "owner": "parcadei",
             "repo": "Continuous-Claude-v3",
-            "stars": 3932
+            "stars": 3932,
+            "topics": [
+              "agents",
+              "claude-code",
+              "claude-code-cli",
+              "claude-code-hooks",
+              "claude-code-mcp",
+              "claude-code-skills",
+              "claude-code-subagents",
+              "claude-skills",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -380,12 +716,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
+            "homepage": "https://arscontexta.org",
             "id": 1158631460,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-02-24T23:54:21Z",
+            "open_issues": 34,
             "owner": "agenticnotetaking",
             "repo": "arscontexta",
-            "stars": 3482
+            "stars": 3482,
+            "topics": [
+              "claude-code",
+              "claude-code-plugin",
+              "knowledge-base",
+              "knowledge-management",
+              "markdown",
+              "second-brain"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -396,12 +744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code Workflow for beginners & intermediate users. Tutorial and Installer included",
+            "homepage": "https://www.linkedin.com/in/peterkrueck/",
             "id": 1012454253,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-22T15:05:18Z",
+            "open_issues": 3,
             "owner": "peterkrueck",
             "repo": "Claude-Code-Development-Kit",
-            "stars": 1381
+            "stars": 1381,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -412,12 +765,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuietHarness：Claude Code、Codex、Cursor 共用的轻量 AI 工作系统",
+            "homepage": "https://leolabs.me",
             "id": 1171383826,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:04:12Z",
+            "open_issues": 0,
             "owner": "runesleo",
             "repo": "claude-code-workflow",
-            "stars": 711
+            "stars": 711,
+            "topics": [
+              "agent-workflow",
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "cursor",
+              "developer-tools",
+              "llm",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -428,12 +795,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code plugin that maps and documents codebases of any size using parallel AI subagents",
+            "homepage": null,
             "id": 1133827737,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-13T00:01:31Z",
+            "open_issues": 5,
             "owner": "kingbootoshi",
             "repo": "cartographer",
-            "stars": 650
+            "stars": 650,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -450,12 +822,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agentic skills framework & software development methodology that works.",
+            "homepage": null,
             "id": 1073224795,
             "language": "Shell",
-            "last_commit": "2026-08-19T17:33:23Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:21:18Z",
+            "open_issues": 332,
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 279090
+            "stars": 279109,
+            "topics": [
+              "ai",
+              "brainstorming",
+              "coding",
+              "obra",
+              "sdlc",
+              "skills",
+              "subagent-driven-development",
+              "superpowers"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -466,12 +852,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agentic skills framework & software development methodology that works.",
+            "homepage": null,
             "id": 1073224795,
             "language": "Shell",
-            "last_commit": "2026-08-19T17:33:23Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:21:18Z",
+            "open_issues": 332,
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 279090
+            "stars": 279109,
+            "topics": [
+              "ai",
+              "brainstorming",
+              "coding",
+              "obra",
+              "sdlc",
+              "skills",
+              "subagent-driven-development",
+              "superpowers"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -482,12 +882,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+            "homepage": "https://ecc.tools",
             "id": 1136590548,
             "language": "JavaScript",
-            "last_commit": "2026-08-29T02:24:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:22:27Z",
+            "open_issues": 146,
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 243987
+            "stars": 244001,
+            "topics": [
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "developer-tools",
+              "llm",
+              "mcp",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -498,12 +912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+            "homepage": null,
             "id": 1179264259,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:43:13Z",
+            "open_issues": 810,
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 130229
+            "stars": 130236,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -514,12 +933,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Claude Code skills for enhanced AI workflows",
+            "homepage": null,
             "id": 1083206929,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T20:59:35Z",
+            "open_issues": 9,
             "owner": "glebis",
             "repo": "claude-skills",
-            "stars": 364
+            "stars": 364,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -530,12 +954,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Portable Claude Code multi-agent pipeline - skills, agents, hooks, orchestration scripts, and quality gates",
+            "homepage": null,
             "id": 1151566600,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-02-25T21:10:10Z",
+            "open_issues": 3,
             "owner": "aaddrick",
             "repo": "claude-pipeline",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -552,12 +981,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agentic skills framework & software development methodology that works.",
+            "homepage": null,
             "id": 1073224795,
             "language": "Shell",
-            "last_commit": "2026-08-19T17:33:23Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:21:18Z",
+            "open_issues": 332,
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 279090
+            "stars": 279109,
+            "topics": [
+              "ai",
+              "brainstorming",
+              "coding",
+              "obra",
+              "sdlc",
+              "skills",
+              "subagent-driven-development",
+              "superpowers"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -568,12 +1011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+            "homepage": null,
             "id": 1179264259,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:43:13Z",
+            "open_issues": 810,
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 130229
+            "stars": 130236,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -584,12 +1032,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agents running research on single-GPU nanochat training automatically",
+            "homepage": null,
             "id": 1174820787,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-26T00:07:37Z",
+            "open_issues": 194,
             "owner": "karpathy",
             "repo": "autoresearch",
-            "stars": 94870
+            "stars": 94874,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -606,12 +1059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+            "homepage": null,
             "id": 1179264259,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:43:13Z",
+            "open_issues": 810,
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 130229
+            "stars": 130236,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -622,12 +1080,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code plugin: automated code review loop with Codex",
+            "homepage": null,
             "id": 1163037979,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-03-15T04:13:23Z",
+            "open_issues": 3,
             "owner": "hamelsmu",
             "repo": "claude-review-loop",
-            "stars": 726
+            "stars": 726,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -638,12 +1101,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Delegate tasks to OpenAI Codex agents via tmux sessions. Designed for Claude Code orchestration.",
+            "homepage": null,
             "id": 1136134423,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-28T02:51:35Z",
+            "open_issues": 3,
             "owner": "kingbootoshi",
             "repo": "codex-orchestrator",
-            "stars": 349
+            "stars": 349,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -654,12 +1122,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-agent collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
+            "homepage": null,
             "id": 1116163973,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-24T13:08:24Z",
+            "open_issues": 3,
             "owner": "team-attention",
             "repo": "agent-council",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -676,12 +1149,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+            "homepage": "https://ecc.tools",
             "id": 1136590548,
             "language": "JavaScript",
-            "last_commit": "2026-08-29T02:24:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:22:27Z",
+            "open_issues": 146,
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 243987
+            "stars": 244001,
+            "topics": [
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "developer-tools",
+              "llm",
+              "mcp",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -692,12 +1179,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+            "homepage": "https://ecc.tools",
             "id": 1136590548,
             "language": "JavaScript",
-            "last_commit": "2026-08-29T02:24:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:22:27Z",
+            "open_issues": 146,
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 243987
+            "stars": 244001,
+            "topics": [
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "developer-tools",
+              "llm",
+              "mcp",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -708,12 +1209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agents running research on single-GPU nanochat training automatically",
+            "homepage": null,
             "id": 1174820787,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-26T00:07:37Z",
+            "open_issues": 194,
             "owner": "karpathy",
             "repo": "autoresearch",
-            "stars": 94870
+            "stars": 94874,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -724,12 +1230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Claude Code skills for enhanced AI workflows",
+            "homepage": null,
             "id": 1083206929,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T20:59:35Z",
+            "open_issues": 9,
             "owner": "glebis",
             "repo": "claude-skills",
-            "stars": 364
+            "stars": 364,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -746,12 +1257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+            "homepage": null,
             "id": 1179264259,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:43:13Z",
+            "open_issues": 810,
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 130229
+            "stars": 130236,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -762,12 +1278,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Record any browser page as GIF or video via MCP — powered by Playwright + ffmpeg",
+            "homepage": null,
             "id": 1186820702,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-27T01:29:26Z",
+            "open_issues": 0,
             "owner": "mcpware",
             "repo": "pagecast",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "ai-tools",
+              "automation",
+              "browser-automation",
+              "claude",
+              "claude-code",
+              "demo",
+              "developer-tools",
+              "ffmpeg",
+              "gif",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "open-source",
+              "playwright",
+              "recording",
+              "screen-capture",
+              "screen-recorder",
+              "screencast",
+              "typescript",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -778,12 +1320,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server that annotates any web page with hover labels — zero extensions, works in any browser",
+            "homepage": null,
             "id": 1186599961,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-24T20:55:33Z",
+            "open_issues": 1,
             "owner": "mcpware",
             "repo": "ui-annotator-mcp",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "accessibility",
+              "ai-tools",
+              "anthropic",
+              "automation",
+              "browser-automation",
+              "claude",
+              "claude-code",
+              "developer-tools",
+              "devtools",
+              "frontend",
+              "llm",
+              "llm-tools",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "open-source",
+              "reverse-proxy",
+              "typescript",
+              "web-development",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -800,12 +1368,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+            "homepage": "https://ecc.tools",
             "id": 1136590548,
             "language": "JavaScript",
-            "last_commit": "2026-08-29T02:24:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:22:27Z",
+            "open_issues": 146,
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 243987
+            "stars": 244001,
+            "topics": [
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "developer-tools",
+              "llm",
+              "mcp",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -816,12 +1398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+            "homepage": null,
             "id": 1075372545,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:57:12Z",
+            "open_issues": 142,
             "owner": "msitarzewski",
             "repo": "agency-agents",
-            "stars": 148647
+            "stars": 148658,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -832,12 +1419,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent Skills for Solopreneurs",
+            "homepage": "https://opc.dev",
             "id": 1136152017,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:24:27Z",
+            "open_issues": 11,
             "owner": "ReScienceLab",
             "repo": "opc-skills",
-            "stars": 1701
+            "stars": 1701,
+            "topics": [
+              "agent-skills",
+              "ai-tools",
+              "claude-code",
+              "geo",
+              "llm-tools",
+              "opc",
+              "seo"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -854,12 +1454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run your company with an AI team. No complex tooling—just markdown files and Claude.",
+            "homepage": null,
             "id": 1150922461,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-05T21:57:57Z",
+            "open_issues": 1,
             "owner": "cloudrepo-io",
             "repo": "founder-os",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -870,12 +1475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Business Operating System AI (BOS-AI) Framework",
+            "homepage": null,
             "id": 1038816926,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T04:04:00Z",
+            "open_issues": 1,
             "owner": "TheWayWithin",
             "repo": "BOS-AI",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -886,12 +1496,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ABF (Agentic Business Framework) is an open-source TypeScript/Node.js framework for building businesses that run on coordinated AI   agents. You feed it a business plan (or answer interview questions), and it generates a full agent team — with roles, tools, memory, workflows, and a web dashboard — in minutes. ",
+            "homepage": null,
             "id": 1166344897,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-09T18:00:01Z",
+            "open_issues": 10,
             "owner": "alexclowe",
             "repo": "abf",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "agents"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -908,12 +1525,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+            "homepage": "https://ecc.tools",
             "id": 1136590548,
             "language": "JavaScript",
-            "last_commit": "2026-08-29T02:24:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:22:27Z",
+            "open_issues": 146,
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 243987
+            "stars": 244001,
+            "topics": [
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "developer-tools",
+              "llm",
+              "mcp",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -924,12 +1555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agents running research on single-GPU nanochat training automatically",
+            "homepage": null,
             "id": 1174820787,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-26T00:07:37Z",
+            "open_issues": 194,
             "owner": "karpathy",
             "repo": "autoresearch",
-            "stars": 94870
+            "stars": 94874,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -946,12 +1582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+            "homepage": null,
             "id": 1179264259,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:43:13Z",
+            "open_issues": 810,
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 130229
+            "stars": 130236,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -962,12 +1603,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The universal skill manager for AI coding agents.",
+            "homepage": "https://luongnv.com/asm",
             "id": 1178954220,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:35:41Z",
+            "open_issues": 22,
             "owner": "luongnv89",
             "repo": "asm",
-            "stars": 901
+            "stars": 901,
+            "topics": [
+              "agents",
+              "ai",
+              "aiagents",
+              "coding",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -978,12 +1630,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate structured skill templates, automate workflow integration, and accelerate AI agent development with a clean, developer-friendly setup.",
+            "homepage": "https://medium.com/@alirezarezvani/the-claude-skills-factory-how-you-can-generate-production-ready-ai-tools-in-15-minutes-eb0b86087f31?sk=4c0f7e762b9d7caf49d4234a978f3b0a",
             "id": 1080588167,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-12T15:30:27Z",
+            "open_issues": 27,
             "owner": "alirezarezvani",
             "repo": "claude-code-skill-factory",
-            "stars": 854
+            "stars": 854,
+            "topics": [
+              "ai-agents",
+              "ai-tools",
+              "claude-ai",
+              "claude-code",
+              "claude-skills",
+              "claude-skills-creator"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -994,12 +1658,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP servers, skills, memories, agents, sessions, security scanning, context budget, and backups.",
+            "homepage": "https://www.npmjs.com/package/@mcpware/cross-code-organizer",
             "id": 1185714860,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-07T06:48:36Z",
+            "open_issues": 12,
             "owner": "mcpware",
             "repo": "cross-code-organizer",
-            "stars": 376
+            "stars": 376,
+            "topics": [
+              "ai-coding-tools",
+              "ai-config-dashboard",
+              "ai-tools",
+              "claude",
+              "claude-code",
+              "claude-code-organizer",
+              "claude-code-plugin",
+              "claude-memory",
+              "claude-skills",
+              "codex-cli",
+              "context-budget",
+              "cross-code-organizer",
+              "cross-harness",
+              "dashboard",
+              "mcp",
+              "mcp-security",
+              "mcp-server",
+              "model-context-protocol",
+              "security-scanner",
+              "tool-poisoning"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -1016,12 +1706,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+            "homepage": null,
             "id": 1126473386,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:25:31Z",
+            "open_issues": 1,
             "owner": "jarrodwatts",
             "repo": "claude-hud",
-            "stars": 27712
+            "stars": 27715,
+            "topics": [
+              "anthropic",
+              "claude",
+              "claude-code",
+              "cli",
+              "plugin",
+              "statusline",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -1032,12 +1735,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build mods for Claude Code: Hook any request, modify any response, /model \"with-your-custom-model\", intelligent model routing using your logic or ours",
+            "homepage": null,
             "id": 1028650374,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T00:29:44Z",
+            "open_issues": 9,
             "owner": "starbaser",
             "repo": "ccproxy",
-            "stars": 345
+            "stars": 345,
+            "topics": [
+              "ai",
+              "ai-gateway",
+              "ai-proxy",
+              "ai-tools",
+              "anthropic",
+              "claude",
+              "claude-ai",
+              "claude-api",
+              "claude-code",
+              "claude-max",
+              "claudecode",
+              "gemini",
+              "gemini-cli",
+              "litellm",
+              "llm",
+              "llm-gateway",
+              "llm-proxy",
+              "llmops",
+              "openai",
+              "openrouter"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -1048,12 +1777,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Understand how you use Claude Code, and spend less doing it.",
+            "homepage": "https://luongnv.com/context-stats",
             "id": 1124037438,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T08:33:41Z",
+            "open_issues": 1,
             "owner": "luongnv89",
             "repo": "context-stats",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "context",
+              "stats"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -1070,12 +1807,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+            "homepage": "https://ecc.tools",
             "id": 1136590548,
             "language": "JavaScript",
-            "last_commit": "2026-08-29T02:24:24Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:22:27Z",
+            "open_issues": 146,
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 243987
+            "stars": 244001,
+            "topics": [
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "developer-tools",
+              "llm",
+              "mcp",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -1086,12 +1837,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+            "homepage": "https://linkedin.com/in/shanraisshan",
             "id": 1087192965,
             "language": "HTML",
-            "last_commit": "2026-08-28T06:37:59Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:49:18Z",
+            "open_issues": 45,
             "owner": "shanraisshan",
             "repo": "claude-code-best-practice",
-            "stars": 65309
+            "stars": 65312,
+            "topics": [
+              "agentic-ai",
+              "agentic-coding",
+              "agentic-engineering",
+              "agentic-workflow",
+              "ai",
+              "ai-agents",
+              "anthropic",
+              "best-practices",
+              "boris",
+              "claude",
+              "claude-ai",
+              "claude-code",
+              "claude-code-agents",
+              "claude-code-best-practices",
+              "claude-code-commands",
+              "claude-code-skills",
+              "context-engineering",
+              "pakistan",
+              "pakistani-developer",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -1102,12 +1879,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+            "homepage": "http://luongnv.com/claude-howto/",
             "id": 1092047360,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T05:20:08Z",
+            "open_issues": 29,
             "owner": "luongnv89",
             "repo": "claude-howto",
-            "stars": 41247
+            "stars": 41250,
+            "topics": [
+              "claude-code",
+              "guide",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -1118,12 +1904,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents",
+            "homepage": null,
             "id": 1086161926,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-13T22:59:08Z",
+            "open_issues": 18,
             "owner": "diet103",
             "repo": "claude-code-infrastructure-showcase",
-            "stars": 10012
+            "stars": 10013,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -1134,12 +1925,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows",
+            "homepage": null,
             "id": 1129202884,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-06T19:05:18Z",
+            "open_issues": 12,
             "owner": "ChrisWiles",
             "repo": "claude-code-showcase",
-            "stars": 6032
+            "stars": 6032,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -1150,12 +1946,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "471 plugins, 3,069 skills, 347 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.",
+            "homepage": "https://jeremylongshore.github.io/tons-of-skills-marketplace/",
             "id": 1073337396,
             "language": "Python",
-            "last_commit": "2026-08-29T01:22:04Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:52:54Z",
+            "open_issues": 46,
             "owner": "jeremylongshore",
             "repo": "tons-of-skills-marketplace",
-            "stars": 2686
+            "stars": 2686,
+            "topics": [
+              "agent-skills",
+              "ai",
+              "ai-agents",
+              "anthropic",
+              "automation",
+              "claude-code",
+              "claude-code-plugins",
+              "developer-tools",
+              "devops",
+              "llm",
+              "marketplace",
+              "mcp",
+              "plugin-marketplace",
+              "plugin-system",
+              "saas",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -1166,12 +1984,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal Claude Code workflow plugin with agents, skills, hooks, and commands",
+            "homepage": null,
             "id": 1126064944,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T12:15:03Z",
+            "open_issues": 12,
             "owner": "CloudAI-X",
             "repo": "claude-workflow-v2",
-            "stars": 1410
+            "stars": 1410,
+            "topics": [
+              "agent-skills",
+              "ai",
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "cursor",
+              "skills",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -1188,12 +2020,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of MCP servers.",
+            "homepage": "https://glama.ai/mcp/servers",
             "id": 896335270,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T21:09:23Z",
+            "open_issues": 3712,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 93005
+            "stars": 93010,
+            "topics": [
+              "ai",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -1204,12 +2044,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+            "homepage": null,
             "id": 1078079172,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-10T21:45:44Z",
+            "open_issues": 1346,
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73821
+            "stars": 73828,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "antigravity",
+              "automation",
+              "claude",
+              "claude-code",
+              "codex",
+              "composio",
+              "cursor",
+              "developer-tools",
+              "gemini-cli",
+              "mcp",
+              "openai-codex",
+              "rube",
+              "saas",
+              "skill",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -1220,12 +2083,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+            "homepage": null,
             "id": 969302809,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-29T03:10:54Z",
+            "open_issues": 945,
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 53146
+            "stars": 53149,
+            "topics": [
+              "agent-skills",
+              "agentic-code",
+              "agentic-coding",
+              "ai-workflow-optimization",
+              "ai-workflows",
+              "anthropic",
+              "anthropic-claude",
+              "awesome",
+              "awesome-claude-code",
+              "awesome-list",
+              "awesome-lists",
+              "awesome-resources",
+              "claude",
+              "claude-code",
+              "coding-agent",
+              "coding-agents",
+              "coding-assistant",
+              "coding-assistants",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -1236,12 +2124,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
+            "homepage": null,
             "id": 1077850011,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-28T19:30:24Z",
+            "open_issues": 773,
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 14873
+            "stars": 14873,
+            "topics": [
+              "agentic-coding",
+              "anthropic",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "claude",
+              "claude-ai",
+              "claude-code",
+              "claude-desktop",
+              "claude-skills",
+              "claudeskills"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -1252,12 +2157,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of vibe coding references, collaborating with AI to write code.",
+            "homepage": null,
             "id": 948072295,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-04-16T01:34:11Z",
+            "open_issues": 156,
             "owner": "filipecalegario",
             "repo": "awesome-vibe-coding",
-            "stars": 5179
+            "stars": 5180,
+            "topics": [
+              "ai-agent",
+              "ai-agents",
+              "ai-coding-assistant",
+              "ai-coding-tools",
+              "awesome",
+              "awesome-list",
+              "cursor",
+              "lovable",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         },
@@ -1268,12 +2188,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated collection of Claude Code hooks for event-driven automation",
+            "homepage": null,
             "id": 1189327547,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-24T21:08:05Z",
+            "open_issues": 1,
             "owner": "ithiria894",
             "repo": "awesome-claude-code-hooks",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "automation",
+              "awesome",
+              "awesome-list",
+              "claude-code",
+              "event-driven",
+              "hooks"
+            ]
           },
           "first_seen": "2026-08-28T05:30:56.895Z"
         }
@@ -1282,15 +2214,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:13:04.361Z",
+    "last_updated": "2026-08-29T04:57:58.181Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated workflow recipes that combine hooks, MCP servers, skills, agents, and CLAUDE.md to automate real Claude Code tasks",
+      "homepage": null,
       "id": 1189327281,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-28T04:01:43Z",
+      "open_issues": 17,
       "owner": "ithiria894",
       "repo": "awesome-claude-code-workflows",
-      "stars": 121
+      "stars": 121,
+      "topics": [
+        "agents",
+        "awesome",
+        "awesome-list",
+        "claude-code",
+        "hooks",
+        "mcp",
+        "skills",
+        "workflows"
+      ]
     },
     "original_repository_sha": "553ac1546ba9b40882de0c4e0bc43694e66ad7ad",
     "enhanced_repository": "enhansome/enhansome-claude-code-workflows",
